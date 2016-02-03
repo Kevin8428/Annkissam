@@ -1,10 +1,6 @@
 window.onload = function() {
 console.log('loaded');
 };
-var test = function(){
-  alert('works');
-  console.log('works');
-}
 var f = function (p){
   var result = {};
   var array = p.split(' ');
